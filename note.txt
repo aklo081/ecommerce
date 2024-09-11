@@ -1,0 +1,27 @@
+express 
+dotenv
+nodemon
+mongoose
+nodemon server.js 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "email" : "john.doe@example.com",
+    "password" : "password123"
+}
+
+{
+  "productId": "66bdc594867f92e69ad93310",
+  "quantity": 2
+}
